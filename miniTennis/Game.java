@@ -11,6 +11,10 @@ import javax.swing.JFrame;
 import javax.swing.JOptionPane;
 import javax.swing.JPanel;
 
+/*
+ * Inspired by www.edu4java.com tutorial 
+ */
+
 @SuppressWarnings("serial")
 public class Game extends JPanel {
 
