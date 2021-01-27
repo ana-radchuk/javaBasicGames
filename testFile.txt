@@ -1,3 +1,0 @@
-Hello World!
-First file to upload via git
-New line to check history of commits
